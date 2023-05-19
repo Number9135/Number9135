@@ -1,6 +1,6 @@
 ### Hi, there~
-### Welcome to my page.
-### I'm not both IT majors and developer, but i'm trying be a developer.
+## Welcome to my page.
+## I'm not both IT majors and developer, but i'm trying be a developer.
 
 
 
