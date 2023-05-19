@@ -10,7 +10,7 @@
 ##
 
 <h3>Tech Stack
-  <br/><br/>
+  <br/>
   
   <h4>Main Stack
     <br/><br/>
