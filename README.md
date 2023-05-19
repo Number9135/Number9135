@@ -3,7 +3,7 @@
 #### I'm not both IT majors and developer, but i'm trying be a developer.
 
 
-
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Number9135&show_icons=true&theme=radical)
 
@@ -25,9 +25,15 @@
      <img src="https://img.shields.io/badge/HTML5-blue?style=endpoint&logo=html&logoColor=white"/>
      <img src="https://img.shields.io/badge/CSS3-orange?style=endpoint&logo=css&logoColor=white"/>
   <h4/>
+    
+ ##
+    
+    <h3>Channel
+     <br/><br/>
+     <a href="https://velog.io/@dbstn9135" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997?style=endpoint&logo=velog&logoColor=white"/></a>
+  <h4/>
 
-<h3/>
-
+      
 
 
 <!--
