@@ -21,9 +21,9 @@
     
   <h4>Partially possible Stack
      <br/><br/>
-     <img src="https://img.shields.io/badge/TyperScript-#3178C6?style=endpoint&logo=typescript&logoColor=white"/>
+     <img src="https://img.shields.io/badge/TyperScript-yellow?style=endpoint&logo=typescript&logoColor=white"/>
      <img src="https://img.shields.io/badge/HTML5-blue?style=endpoint&logo=html&logoColor=white"/>
-     <img src="https://img.shields.io/badge/CSS3-#1572B6?style=endpoint&logo=css&logoColor=white"/>
+     <img src="https://img.shields.io/badge/CSS3-orange?style=endpoint&logo=css&logoColor=white"/>
   <h4/>
 
 <h3/>
