@@ -38,7 +38,7 @@
      </a>
      </h3>
     
- <h3>Channel<
+    <h3>Channel</H3>
  <a href="https://velog.io/@dbstn9135">
      <img 
       src="http://img.shields.io/badge/-Velog-655ced?style=endpoint&logo=github&link=https://velog.io/@dbstn9135"
