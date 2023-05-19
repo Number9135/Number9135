@@ -10,7 +10,8 @@
 ##
 
 Tech Stack
-<br/> <img src="https://img.shields.io/badge/React-FFCA28?style=endpoint&logo=react&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/React-FFCA28?style=endpoint&logo=react&logoColor=white"/>
 
 
 <!--
