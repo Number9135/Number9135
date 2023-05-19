@@ -34,6 +34,10 @@
   <h3/>
 
       
+       <img src="https://img.shields.io/badge/Velog-orange?style=endpoint&logo=velog&logoColor=white">
+      <a href = ""https://velog.io/@dbstn9135""/>
+      </img>
+      
 
 
 <!--
