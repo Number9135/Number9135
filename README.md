@@ -13,17 +13,17 @@
   <br/><br/>
   
   <h4>Main Stack
-    <br/>
+    <br/><br/>
      <img src="https://img.shields.io/badge/React-FFCA28?style=endpoint&logo=react&logoColor=white"/>
      <img src="https://img.shields.io/badge/ReactNative-green?style=endpoint&logo=reactnative&logoColor=white"/>
      <img src="https://img.shields.io/badge/JavaScript-red?style=endpoint&logo=JavaScript&logoColor=white"/>
   <h4/>
     
   <h4>Partially possible Stack
-     <br/>
-     <img src="https://img.shields.io/badge/HTML5-#E34F26?style=endpoint&logo=HTML5&logoColor=white"/>
-     <img src="https://img.shields.io/badge/CSS3-#1572B6?style=endpoint&logo=CSS3&logoColor=white"/>
-     <img src="https://img.shields.io/badge/TypeScript-#3178C6?style=endpoint&logo=TypeScript&logoColor=white"/>
+     <br/><br/>
+     <img src="https://img.shields.io/badge/React-FFCA28?style=endpoint&logo=react&logoColor=white"/>
+     <img src="https://img.shields.io/badge/ReactNative-green?style=endpoint&logo=reactnative&logoColor=white"/>
+     <img src="https://img.shields.io/badge/JavaScript-red?style=endpoint&logo=JavaScript&logoColor=white"/>
   <h4/>
 
 <h3/>
