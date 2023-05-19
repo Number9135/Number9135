@@ -3,7 +3,7 @@
 #### I'm not both IT majors and developer, but i'm trying be a developer.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navigate0425@gmail.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Number9135&show_icons=true&theme=radical)
 
 
 <!--
