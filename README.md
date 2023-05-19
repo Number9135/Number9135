@@ -28,16 +28,12 @@
     
 ##
     
-    <h3>Channel
+    <h3>Channel  <h3/>
      <br/><br/>
      <a href="https://velog.io/@dbstn9135" target="_blank"><img src="https://img.shields.io/badge/Velog-pink?style=endpoint&logo=velog&logoColor=white"/></a>
-  <h3/>
 
-      
-       <img src="https://img.shields.io/badge/Velog-orange?style=endpoint&logo=velog&logoColor=white">
-      <a href = ""https://velog.io/@dbstn9135""/>
-      </img>
-      
+
+   
 
 
 <!--
