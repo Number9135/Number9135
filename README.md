@@ -27,14 +27,14 @@
   </h4>
   
   ##
-   <h4>Channel
+   <h3>Channel
     <br/><br/>
       <a href="https://velog.io/@dbstn9135">
      <img 
       src="http://img.shields.io/badge/-Velog-655ced?style=endpoint&logo=github&link=https://velog.io/@dbstn9135"
       style="height : auto"/>
      </a>
-  </h4>
+  </h3>
     
 
 
