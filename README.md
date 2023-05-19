@@ -7,9 +7,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Number9135&show_icons=true&theme=radical)
 
+##
 
-###Tech Stack
-####<img src="https://img.shields.io/badge/React-FFCA28?style=endpoint&logo=react&logoColor=white"/>
+Tech Stack
+<img src="https://img.shields.io/badge/React-FFCA28?style=endpoint&logo=react&logoColor=white"/>
 
 
 <!--
