@@ -27,7 +27,7 @@
   <h4/>
     
 ##
-    
+    <div>
     <h3>Channel<h3/>
      <br/><br/>
      <a href="https://velog.io/@dbstn9135">
@@ -35,13 +35,8 @@
       src="http://img.shields.io/badge/-Velog-655ced?style=endpoint&logo=github&link=https://velog.io/@dbstn9135"
       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
      </a>
+      </div>
     
-
-        <a href="https://velog.io/@dbstn9135">
-     <img 
-      src="http://img.shields.io/badge/-Velog-655ced?style=endpoint&logo=github&link=https://velog.io/@dbstn9135"
-      style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-     </a>
     
 
 <!--
