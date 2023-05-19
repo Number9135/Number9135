@@ -24,14 +24,14 @@
      <img src="https://img.shields.io/badge/TyperScript-yellow?style=endpoint&logo=typescript&logoColor=white"/>
      <img src="https://img.shields.io/badge/HTML5-blue?style=endpoint&logo=html&logoColor=white"/>
      <img src="https://img.shields.io/badge/CSS3-orange?style=endpoint&logo=css&logoColor=white"/>
-  <h3/>
+  <h4/>
     
- ##
+##
     
     <h3>Channel
      <br/><br/>
      <a href="https://velog.io/@dbstn9135" target="_blank"><img src="https://img.shields.io/badge/Velog-pink?style=endpoint&logo=velog&logoColor=white"/></a>
-  <h4/>
+  <h3/>
 
       
 
