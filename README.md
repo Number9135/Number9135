@@ -30,7 +30,7 @@
     
     <h3>Channel
      <br/><br/>
-     <a href="https://velog.io/@dbstn9135" target="_blank"><img src="https://img.shields.io/badge/Velog-#20C997?style=endpoint&logo=velog&logoColor=white"/></a>
+     <a href="https://velog.io/@dbstn9135" target="_blank"><img src="https://img.shields.io/badge/Velog-pink?style=endpoint&logo=velog&logoColor=white"/></a>
   <h4/>
 
       
