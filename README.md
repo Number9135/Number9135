@@ -3,6 +3,8 @@
 #### I'm not both IT majors and developer, but i'm trying be a developer.
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navigate0425@gmail.com&show_icons=true&theme=radical)
+
 
 <!--
 **Number9135/Number9135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
