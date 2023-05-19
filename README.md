@@ -11,9 +11,10 @@
 
 <h3>Tech Stack
   <br/><br/>
+  <h2>Main Stack<h2/>
   <img src="https://img.shields.io/badge/React-FFCA28?style=endpoint&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReactNative-green?style=endpoint&logo=reactnative&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-red?style=endpoint&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactNative-green?style=endpoint&logo=reactnative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-red?style=endpoint&logo=JavaScript&logoColor=white"/>
 
 
 <h3/>
