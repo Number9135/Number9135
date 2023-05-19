@@ -25,16 +25,18 @@
      <img src="https://img.shields.io/badge/HTML5-blue?style=endpoint&logo=html&logoColor=white"/>
      <img src="https://img.shields.io/badge/CSS3-orange?style=endpoint&logo=css&logoColor=white"/>
   </h4>
-    
-##
-      
-    <h3>Channel</h3>
-    <br/>
- <a href="https://velog.io/@dbstn9135">
+  
+   <h4>Main Stack
+    <br/><br/>
+      <a href="https://velog.io/@dbstn9135">
      <img 
       src="http://img.shields.io/badge/-Velog-655ced?style=endpoint&logo=github&link=https://velog.io/@dbstn9135"
       style="height : auto; margin-left : 10px; margin-right : 10px;"/>
      </a>
+  </h4>
+    
+
+
 <!--
 **Number9135/Number9135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
