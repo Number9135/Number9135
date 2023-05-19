@@ -32,7 +32,11 @@
      <br/><br/>
      <a href="https://velog.io/@dbstn9135" target="_blank"><img src="https://img.shields.io/badge/Velog-red?style=endpoint&logo=velog&logoColor=white"/></a>
 
-
+<a href="[https://byul91oh.tistory.com/](https://velog.io/@dbstn9135)">
+    <img 
+        src="http://img.shields.io/badge/-Velog-655ced?style=endpoint&logo=github&link=https://velog.io/@dbstn9135"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
    
 
 
