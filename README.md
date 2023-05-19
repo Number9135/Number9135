@@ -9,7 +9,7 @@
 
 ##
 
-Tech Stack
+<h2>Tech Stack<h2/>
 <br/><br/>
 <img src="https://img.shields.io/badge/React-FFCA28?style=endpoint&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactNative-green?style=endpoint&logo=reactnative&logoColor=white"/>
