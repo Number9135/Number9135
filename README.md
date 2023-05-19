@@ -9,7 +9,9 @@
 
 
 ##
-#####Tech Stack
+####Tech Stack
+<img src="https://img.shields.io/badge/React-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+
 
 <!--
 **Number9135/Number9135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
