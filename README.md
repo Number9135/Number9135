@@ -28,9 +28,9 @@
   ##
    <h3>Channel
     <br/><br/>
-      <a href="https://velog.io/@dbstn9135">
+      <a href="https://blog.naver.com/story_developer">
      <img 
-      src="http://img.shields.io/badge/-Velog-655ced?style=endpoint&logo=github&link=https://velog.io/@dbstn9135"
+      src="http://img.shields.io/badge/-blog-655ced?style=endpoint&logo=github&link=https://blog.naver.com/story_developer"
       style="height : auto"/>
      </a>
   </h3>
